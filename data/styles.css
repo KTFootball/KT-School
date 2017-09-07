@@ -132,6 +132,10 @@
 }
 .line1 {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
