@@ -1,0 +1,126 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1750px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u22048_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:412px;
+  height:857px;
+}
+#u22048 {
+  position:absolute;
+  left:400px;
+  top:201px;
+  width:412px;
+  height:857px;
+}
+#u22049 {
+  position:absolute;
+  left:2px;
+  top:420px;
+  width:408px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u22050_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:412px;
+  height:857px;
+}
+#u22050 {
+  position:absolute;
+  left:1338px;
+  top:201px;
+  width:412px;
+  height:857px;
+}
+#u22051 {
+  position:absolute;
+  left:2px;
+  top:420px;
+  width:408px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u22052_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:225px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u22052 {
+  position:absolute;
+  left:503px;
+  top:135px;
+  width:225px;
+  height:33px;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u22053 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:225px;
+  white-space:nowrap;
+}
+#u22054_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:249px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u22054 {
+  position:absolute;
+  left:1403px;
+  top:135px;
+  width:249px;
+  height:33px;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u22055 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:249px;
+  white-space:nowrap;
+}

@@ -1,0 +1,134 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:973px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u18519_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:973px;
+  height:1989px;
+}
+#u18519 {
+  position:absolute;
+  left:0px;
+  top:88px;
+  width:973px;
+  height:1989px;
+}
+#u18520 {
+  position:absolute;
+  left:2px;
+  top:986px;
+  width:969px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18521 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u18522 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u18523_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u18523 {
+  position:absolute;
+  left:24px;
+  top:13px;
+  width:140px;
+  height:40px;
+}
+#u18524 {
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:136px;
+  word-wrap:break-word;
+}
+#u18525_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:31px;
+  height:26px;
+}
+#u18525 {
+  position:absolute;
+  left:38px;
+  top:20px;
+  width:31px;
+  height:26px;
+}
+#u18526 {
+  position:absolute;
+  left:2px;
+  top:5px;
+  width:27px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18527_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:321px;
+  height:45px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+#u18527 {
+  position:absolute;
+  left:93px;
+  top:73px;
+  width:321px;
+  height:45px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+#u18528 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:321px;
+  white-space:nowrap;
+}
