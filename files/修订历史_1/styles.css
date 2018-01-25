@@ -51,7 +51,7 @@
   left:118px;
   top:206px;
   width:1005px;
-  height:107px;
+  height:137px;
 }
 #u18434_img {
   position:absolute;
@@ -257,21 +257,90 @@
   width:190px;
   word-wrap:break-word;
 }
+#u18452_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:195px;
+  height:30px;
+}
 #u18452 {
   position:absolute;
   left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
+  top:102px;
+  width:195px;
+  height:30px;
 }
 #u18453 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:191px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18454_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:611px;
+  height:30px;
+}
+#u18454 {
+  position:absolute;
+  left:195px;
+  top:102px;
+  width:611px;
+  height:30px;
+}
+#u18455 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:607px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18456_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:194px;
+  height:30px;
+}
+#u18456 {
+  position:absolute;
+  left:806px;
+  top:102px;
+  width:194px;
+  height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u18457 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:190px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18458 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-#u18454_div {
+#u18459 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u18460_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -285,35 +354,35 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u18454 {
+#u18460 {
   position:absolute;
   left:118px;
   top:88px;
   width:140px;
   height:40px;
 }
-#u18455 {
+#u18461 {
   position:absolute;
   left:2px;
   top:11px;
   width:136px;
   word-wrap:break-word;
 }
-#u18456_img {
+#u18462_img {
   position:absolute;
   left:0px;
   top:0px;
   width:31px;
   height:26px;
 }
-#u18456 {
+#u18462 {
   position:absolute;
   left:132px;
   top:95px;
   width:31px;
   height:26px;
 }
-#u18457 {
+#u18463 {
   position:absolute;
   left:2px;
   top:5px;
