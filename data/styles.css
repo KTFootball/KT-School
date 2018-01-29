@@ -171,6 +171,9 @@
   color:#000000;
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -210,7 +213,7 @@
 .checkbox {
   text-align:left;
 }
-.radio_button {
+.radio_button1 {
   text-align:left;
 }
 .tree_node {
