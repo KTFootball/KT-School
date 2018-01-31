@@ -367,8 +367,9 @@
 #u18461 {
   position:absolute;
   left:2px;
-  top:6px;
+  top:7px;
   width:607px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u18462_img {
@@ -391,8 +392,9 @@
 #u18463 {
   position:absolute;
   left:2px;
-  top:6px;
+  top:7px;
   width:190px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u18464 {
