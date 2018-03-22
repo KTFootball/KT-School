@@ -104,6 +104,8 @@
 }
 .line {
 }
+.arrow {
+}
 .table_cell {
 }
 .icon {
@@ -171,11 +173,18 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .placeholder1 {
 }
