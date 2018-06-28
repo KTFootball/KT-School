@@ -1,0 +1,289 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>放款统计报表</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/放款统计报表/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/放款统计报表/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (图片) -->
+      <div id="u727" class="ax_default _图片">
+        <img id="u727_img" class="img " src="images/放款统计报表/u727.jpg"/>
+        <!-- Unnamed () -->
+        <div id="u728" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u729" class="ax_default box_2">
+        <div id="u729_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u730" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u731" class="ax_default box_2">
+        <div id="u731_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u732" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u733" class="ax_default" data-width="164" data-height="25">
+
+        <!-- Unnamed (文本框) -->
+        <div id="u734" class="ax_default text_field">
+          <input id="u734_input" type="text" value="放款开始日期"/>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u735" class="ax_default icon">
+          <img id="u735_img" class="img " src="images/放款统计报表/u735.png"/>
+          <!-- Unnamed () -->
+          <div id="u736" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u737" class="ax_default" data-width="164" data-height="25">
+
+        <!-- Unnamed (文本框) -->
+        <div id="u738" class="ax_default text_field">
+          <input id="u738_input" type="text" value="放款截止日期"/>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u739" class="ax_default icon">
+          <img id="u739_img" class="img " src="images/放款统计报表/u735.png"/>
+          <!-- Unnamed () -->
+          <div id="u740" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u741" class="ax_default" data-width="164" data-height="25">
+
+        <!-- Unnamed (文本框) -->
+        <div id="u742" class="ax_default text_field">
+          <input id="u742_input" type="text" value="借款人姓名"/>
+        </div>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u743" class="ax_default droplist">
+        <select id="u743_input">
+          <option value="订单状态">订单状态</option>
+          <option value="已放款">已放款</option>
+          <option value="未放款">未放款</option>
+          <option value="逾期">逾期</option>
+          <option value="已完成还款">已完成还款</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u744" class="ax_default primary_button">
+        <div id="u744_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u745" class="text">
+          <p><span>搜索</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u746" class="ax_default primary_button">
+        <div id="u746_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u747" class="text">
+          <p><span>清空</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u748" class="ax_default primary_button">
+        <div id="u748_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u749" class="text">
+          <p><span>生成并下载报表</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u750" class="ax_default icon">
+        <img id="u750_img" class="img " src="images/放款统计报表/u750.png"/>
+        <!-- Unnamed () -->
+        <div id="u751" class="text" style="display:none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (表格) -->
+      <div id="u752" class="ax_default">
+
+        <!-- Unnamed (单元格) -->
+        <div id="u753" class="ax_default table_cell">
+          <img id="u753_img" class="img " src="images/贷款订单提前还款页面/u286.png"/>
+          <!-- Unnamed () -->
+          <div id="u754" class="text">
+            <p><span>Column 1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u755" class="ax_default table_cell">
+          <img id="u755_img" class="img " src="images/贷款订单提前还款页面/u286.png"/>
+          <!-- Unnamed () -->
+          <div id="u756" class="text">
+            <p><span>Column 2</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u757" class="ax_default table_cell">
+          <img id="u757_img" class="img " src="images/放款统计报表/u757.png"/>
+          <!-- Unnamed () -->
+          <div id="u758" class="text">
+            <p><span>Column 3</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u759" class="ax_default table_cell">
+          <img id="u759_img" class="img " src="images/贷款订单提前还款页面/u286.png"/>
+          <!-- Unnamed () -->
+          <div id="u760" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u761" class="ax_default table_cell">
+          <img id="u761_img" class="img " src="images/贷款订单提前还款页面/u286.png"/>
+          <!-- Unnamed () -->
+          <div id="u762" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u763" class="ax_default table_cell">
+          <img id="u763_img" class="img " src="images/放款统计报表/u757.png"/>
+          <!-- Unnamed () -->
+          <div id="u764" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u765" class="ax_default table_cell">
+          <img id="u765_img" class="img " src="images/贷款订单提前还款页面/u318.png"/>
+          <!-- Unnamed () -->
+          <div id="u766" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u767" class="ax_default table_cell">
+          <img id="u767_img" class="img " src="images/贷款订单提前还款页面/u318.png"/>
+          <!-- Unnamed () -->
+          <div id="u768" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (单元格) -->
+        <div id="u769" class="ax_default table_cell">
+          <img id="u769_img" class="img " src="images/放款统计报表/u769.png"/>
+          <!-- Unnamed () -->
+          <div id="u770" class="text" style="display:none; visibility: hidden">
+            <p><span></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u771" class="ax_default droplist">
+        <select id="u771_input">
+          <option selected value="请选省份">请选省份</option>
+          <option value="山西">山西</option>
+          <option value="云南">云南</option>
+          <option value="河南">河南</option>
+          <option value="湖北">湖北</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u772" class="ax_default droplist">
+        <select id="u772_input">
+          <option value="请选择车型">请选择车型</option>
+          <option value="客车">客车</option>
+          <option value="城市车">城市车</option>
+          <option value="渣土车">渣土车</option>
+        </select>
+      </div>
+
+      <!-- Unnamed (下拉列表框) -->
+      <div id="u773" class="ax_default droplist">
+        <select id="u773_input">
+          <option value="资金渠道">资金渠道</option>
+          <option value="信舟">信舟</option>
+          <option value="悦达">悦达</option>
+        </select>
+      </div>
+    </div>
+  </body>
+</html>
